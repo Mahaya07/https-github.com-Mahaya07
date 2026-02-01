@@ -68,6 +68,16 @@ The pipeline includes stages for:
 - Test execution
 - Result reporting
 
+## 🔧 GitLab CI (Beginner)
+
+This repository includes a basic GitLab CI pipeline defined using `.gitlab-ci.yml`
+to demonstrate how automated tests can be executed during CI from a QA perspective.
+
+The pipeline includes:
+- Build stage
+- Test stage
+
+
 
 ## 👩‍💻 Author
 
